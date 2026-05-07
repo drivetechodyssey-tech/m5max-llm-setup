@@ -26,6 +26,9 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 # Download setup script
 curl -O https://raw.githubusercontent.com/drivetechodyssey-tech/m5max-llm-setup/main/local-llm-m5max-setup.sh
 
+# Download Ollama for mac
+curl -fsSL https://ollama.com/install.sh | sh
+
 # Make executable
 chmod +x local-llm-m5max-setup.sh
 
