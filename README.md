@@ -17,7 +17,7 @@ Apple Silicon (M5 Max)에 최적화된 **Local LLM** 환경을 가장 빠르고 
 ### 🚀 한 줄 설치 명령어
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/당신아이디/m5max-local-llm-installer/main/local-llm-m5max-setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/drivetechodyssey-tech/m5max-local-llm-installer/main/local-llm-m5max-setup.sh | bash
 ```
 
 📋 설치 후 추천 모델
