@@ -14,13 +14,23 @@ Apple Silicon (M5 Max)에 최적화된 **Local LLM** 환경을 가장 빠르고 
 - M5 Max에서 잘 돌아가는 고성능 추천 모델들만 선별 제공
 - 초보자도 쉽게 따라할 수 있는 친절한 안내
 
-### 🚀 두 줄 설치 명령어
+### 🚀 설치 명령어!
 
 ```bash
-# Homebrew 설치 (가장 중요한 첫 단계)
- /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
- 
-curl -fsSL https://raw.githubusercontent.com/drivetechodyssey-tech/m5max-llm-setup/main/local-llm-m5max-setup.sh | bash
+# Install Homebrew first
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# Apply Homebrew PATH
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
+# Download setup script
+curl -O https://raw.githubusercontent.com/drivetechodyssey-tech/m5max-llm-setup/main/local-llm-m5max-setup.sh
+
+# Make executable
+chmod +x local-llm-m5max-setup.sh
+
+# Run
+./local-llm-m5max-setup.sh
 ```
 
 📋 설치 후 추천 모델
