@@ -18,3 +18,25 @@ Apple Silicon (M5 Max)에 최적화된 **Local LLM** 환경을 가장 빠르고 
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/당신아이디/m5max-local-llm-installer/main/local-llm-m5max-setup.sh | bash
+
+📋 설치 후 추천 모델
+LM Studio (GUI)
+
+Youssofal/Qwen3.6-27B-MTPLX-Optimized-Speed ← 속도 최강
+mlx-community/Qwen3.5-27B-Claude-4.6-Opus-Distilled-MLX-4bit ← Thinking 강력
+dealignai/Gemma-4-31B-JANG_4M-CRACK ← Uncensored
+
+Ollama
+
+qwen3.6:35b-a3b-coding-nvfp4MLX ← 현재 최고 추천
+
+사용 환경
+
+MacBook Pro M5 Max
+macOS Sonoma / Sequoia 이상
+RAM 64GB 이상 권장 (32GB도 사용 가능)
+
+주의사항
+
+스크립트 실행 후 LM Studio가 자동으로 열립니다.
+lms get 명령어는 터미널을 새로 연 뒤 사용해주세요.
