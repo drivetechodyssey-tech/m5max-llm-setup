@@ -59,3 +59,6 @@ RAM 64GB 이상 권장 (32GB도 사용 가능)
 
 스크립트 실행 후 LM Studio가 자동으로 열립니다.
 lms get 명령어는 터미널을 새로 연 뒤 사용해주세요.
+
+추가 설치 프로그램들
+https://mac-stats.com/ 
