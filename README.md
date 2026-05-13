@@ -43,8 +43,6 @@ Youssofal/Qwen3.6-27B-MTPLX-Optimized-Speed ← 속도 최강 (https://huggingfa
 
 mlx-community/Qwen3.5-27B-Claude-4.6-Opus-Distilled-MLX-4bit ← Thinking 강력 (https://huggingface.co/mlx-community/Qwen3.5-27B-Claude-4.6-Opus-Distilled-MLX-4bit) 
 
-dealignai/Gemma-4-31B-JANG_4M-CRACK ← Uncensored (https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK)
-
 Ollama
 
 qwen3.6:35b-a3b-coding-nvfp4MLX ← 현재 최고 추천
